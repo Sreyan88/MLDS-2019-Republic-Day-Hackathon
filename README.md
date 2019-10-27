@@ -68,4 +68,4 @@ All these features(specially the last 5) can be understood properly with the hel
 
 ## Our team Neuron stood 1st in this competition.
 <p align="center">
-<img width="299" height="451" src="https://github.com/Sreyan88/MLDS-2019-Republic-Day-Hackathon/blob/master/Extra/MLDS.jpg">
+<img width="1680" height="1120" src="https://github.com/Sreyan88/MLDS-2019-Republic-Day-Hackathon/blob/master/Extra/MLDS.jpg">
